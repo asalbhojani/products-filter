@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029521473590",
+    "project_id": "laptop-3d82d",
+    "storage_bucket": "laptop-3d82d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029521473590:android:f4c8bf07896f38d73f9897",
+        "android_client_info": {
+          "package_name": "com.example.laptop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoX6uz8OfTSKOmErc3-yA6_fflgZikws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029521473590:android:f7634ddfd0818de63f9897",
+        "android_client_info": {
+          "package_name": "com.example.laptop_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoX6uz8OfTSKOmErc3-yA6_fflgZikws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
